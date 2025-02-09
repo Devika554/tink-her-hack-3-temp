@@ -6,21 +6,27 @@
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: [Ananya Anil] - [SCMS school of Engineering and Technology]
+- Member 2: [Devika A S] - [SCMS school of Engineering and Technology]
+- Member 3: [Ajana Biju] - [SCMS school of Engineering and Technology]
 
 ### Hosted Project Link
 [mention your project hosted project link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+[A simple web application that generates creative and engaging bios.]
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+[
+Creating an engaging and creative bio for social media or professional platforms can be challenging. People often struggle to come up with unique descriptions that reflect their personality, mood, or profession. This project aims to simplify that process by generating bios based on user input.
+]
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+[## How Are We Solving It? 🚀  
+No more staring at a blank bio section! Just enter a few details—your name, mood, profession, and platform—and let our bio generator do the magic. With a single click, you get a creative, customized bio ready to go! ✨  
+
+Say goodbye to boring bios and hello to a unique, engaging online presence! 🎉  
+]
 
 ## Technical Details
 ### Technologies/Components Used
